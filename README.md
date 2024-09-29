@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, world 👋
+
+I'm Emmanuel Quintana, a programming student from Argentina. I'm currently studying at [UNSE](https://www.unse.edu.ar/) university and learning about modern fullstack web development on my own. Nice to meet u
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmaquintana&layout=compact)](https://github.com/emmaquintana)
 
 <!--
 **emmaquintana/emmaquintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#
