@@ -1,6 +1,6 @@
 ## Hello, world 👋
 
-I'm Emmanuel Quintana, a programming student from Argentina. I'm currently studying at [UNSE](https://www.unse.edu.ar/) university and learning about modern frontend web development on my own. Nice to meet u
+I'm Emmanuel Quintana, a programming student from Argentina. I'm currently studying at [UNSE](https://www.unse.edu.ar/) university and learning about modern frontend web development on my own. Also, I'm exploring backend development with a focus on relational databases and frameworks like .NET. Nice to meet u.
 
 <!--
 **emmaquintana/emmaquintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
