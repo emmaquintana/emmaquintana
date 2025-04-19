@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, world 👋
+
+I'm Emmanuel Quintana, a programming student from Argentina. I'm currently studying at [UNSE](https://www.unse.edu.ar/) university and learning about modern frontend web development on my own. Also, I'm exploring backend development with a focus on relational databases. Nice to meet u.
 
 <!--
 **emmaquintana/emmaquintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#
